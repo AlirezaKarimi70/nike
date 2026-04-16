@@ -1,4 +1,5 @@
-import { CustomerReviews, Footer, Hero, Nav, PopularProduct, Services, SpecilOffers, Subscribe, SuperAuality } from './section'
+import Nav from './component/Nav'
+import { CustomerReviews, Footer, Hero, PopularProduct, Services, SpecilOffers, Subscribe, SuperAuality } from './section'
 const App = () => (
   <main>
     <Nav />
